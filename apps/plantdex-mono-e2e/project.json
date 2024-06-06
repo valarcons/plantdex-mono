@@ -1,0 +1,9 @@
+{
+  "name": "plantdex-mono-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/plantdex-mono-e2e/src",
+  "implicitDependencies": ["plantdex-mono"],
+  "// targets": "to see all targets run: nx show project plantdex-mono-e2e --web",
+  "targets": {}
+}
